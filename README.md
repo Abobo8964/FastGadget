@@ -1,4 +1,4 @@
-# FasyGadget
+# FastGadget
 
 A Python script for quickly using Frida-Gadget in Script mode.
 
